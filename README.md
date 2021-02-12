@@ -23,7 +23,7 @@
 
 ![Screenshot from 2021-02-12 15-22-28](https://user-images.githubusercontent.com/69615463/107754894-4eaf8580-6d4c-11eb-80db-9b6218ecce09.png)
 
-### Arch Linux Update Command :###
+### Arch Linux Update Command :  ###
 
 + sudo pacman -Sy
 
