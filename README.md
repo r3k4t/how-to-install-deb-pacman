@@ -1,6 +1,6 @@
 
 
-### How to install Debian Pacman(ubuntu,parrot os,kali linux,linuxmint etc)? ###
+### How to install Debian Pacman Package(ubuntu,parrot os,kali linux,linuxmint etc)? ###
 
 
 <h6>solution :</h6>
