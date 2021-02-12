@@ -3,10 +3,10 @@
 ### How to install Debian Pacman(ubuntu,parrot os,kali linux,linuxmint etc)? ###
 
 
-<h6>solution</h6>
+<h6>solution :</h6>
 
 
-<h4>Terminal Command </h4>
+<h4>Terminal Command : </h4>
 
 
 
